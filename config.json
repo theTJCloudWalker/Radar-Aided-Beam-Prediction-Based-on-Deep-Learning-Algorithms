@@ -1,0 +1,51 @@
+{
+  "dataset": {
+    "number_of_beams": 64,
+    "scenarios": [
+      {
+        "id": 9,
+        "path": "/home/cloudwalker/Documents/scenario9_dev",
+        "shape": [4, 256, 128],
+        "length": 5964,
+        "radar_fileName_templates": "radar_data_{}.mat",
+        "radar_column": "unit1_radar",
+        "label_column": "unit1_beam_index",
+        "csv_filename": "scenario9.csv",
+        "type": "mat"
+      },
+      {
+        "id": 32,
+        "path": "/home/cloudwalker/Documents/scenario32",
+        "shape": [4, 256, 250],
+        "length": 3235,
+        "radar_fileName_templates": "radar_data_{}.npy",
+        "radar_column": "unit1_radar",
+        "label_column": "unit1_beam",
+        "csv_filename": "scenario32_dev.csv",
+        "type": "npy"
+      },
+      {
+        "id": 33,
+        "path": "/home/cloudwalker/Documents/scenario33",
+        "shape": [4, 256, 250],
+        "length": 3981,
+        "radar_fileName_templates": "radar_data_{}.npy",
+        "radar_column": "unit1_radar",
+        "label_column": "unit1_beam",
+        "csv_filename": "scenario33_dev.csv",
+        "type": "npy"
+      },
+      {
+        "id": 35,
+        "path": "/home/cloudwalker/Documents/scenario35",
+        "shape": [4,512,250],
+        "length": 3045,
+        "radar_fileName_templates": "radar_data_{}.npy",
+        "radar_column": "unit1_radar",
+        "label_column": "best_beam",
+        "csv_filename": "scenario35.csv",
+        "type": "npy"
+      }
+    ]
+  }
+}
