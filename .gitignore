@@ -1,1 +1,4 @@
 saved_models/
+.vscode
+.DS_Store
+.idea`
