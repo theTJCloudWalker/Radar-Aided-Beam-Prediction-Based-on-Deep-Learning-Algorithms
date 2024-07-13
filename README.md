@@ -41,9 +41,11 @@
   Memory: 32GB
 
 - device2
+  
   ![Static Badge](https://img.shields.io/badge/Tencent_Cloud-FF6A00?style=for-the-badge&logo=tencentcloud&logoColor=white)
   
   使用了[腾讯高性能应用服务](https://console.cloud.tencent.com/hai/instance?rid=1)的 GPU基础型，收费是¥1.8每小时
+  
   ![Static Badge](https://img.shields.io/badge/NVIDIA-Tesla_T4_16GB+-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![Static Badge](https://img.shields.io/badge/Intel-Xeon(R)_Platinum_8255C-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
   
   Memory: 32GB
